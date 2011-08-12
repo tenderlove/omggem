@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.homepage = %q{http://redmine.ruby-lang.org}
   s.require_paths = %w{lib}
   s.required_ruby_version = Gem::Requirement.new(">= 1.9.2")
-  s.add_dependency 'aaron-rack', '>= 1.0'
+  s.add_dependency 'aaron-rack', '>= 1.0.0'
   s.rubygems_version = %q{1.8.6.1}
   s.summary = %q{This is a gem pretending to be thin}
 end

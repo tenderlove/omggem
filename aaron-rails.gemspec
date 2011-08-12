@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email = %w{aaron@tenderlovemaking.com}
   s.files = %w[ lib/aaron-rails.rb ]
   s.homepage = %q{http://redmine.ruby-lang.org}
-  s.add_dependency 'aaron-rack', '~> 1.1'
+  s.add_dependency 'aaron-rack', '~> 1.1.0'
   s.require_paths = %w{lib}
   s.required_ruby_version = Gem::Requirement.new(">= 1.9.2")
   s.rubygems_version = %q{1.8.6.1}
