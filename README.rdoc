@@ -1,0 +1,5 @@
+= Activation problem
+
+    $ rake gem:install
+    $ ruby test.rb
+
